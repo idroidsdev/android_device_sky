@@ -20,3 +20,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     omni_N630-eng
     omni_N630-userdebug
+    
