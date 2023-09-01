@@ -17,6 +17,7 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_N630.mk
+     
 COMMON_LUNCH_CHOICES := \
      omni_N630-eng
      omni_N630-userdebug
