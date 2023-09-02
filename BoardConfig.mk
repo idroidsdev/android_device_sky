@@ -24,6 +24,8 @@ BOARD_USES_MMCUTILS := true
 BOARD_SUPPRESS_EMMC_WIPE := true
 BOARD_CHARGER_SHOW_PERCENTAGE := true
 RECOVERY_SDCARD_ON_DATA := true               # Optional: If /sdcard partition is emulated on /data partition 
+BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
+
 
 # TWRP stuff
 TW_EXCLUDE_SUPERSU := true                    # true/false: Add SuperSU or not
