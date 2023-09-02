@@ -15,5 +15,5 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/MiTAC/N630
+LOCAL_PATH := device/ANDROID_DEVICE_SKY
 
