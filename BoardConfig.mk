@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/ANDROID_DEVICE_SKY
+DEVICE_PATH := device/MiTAC/N630
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
