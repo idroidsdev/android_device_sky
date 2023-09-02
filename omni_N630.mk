@@ -2,7 +2,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk) -- only for 64bit phones
 
 # Inherit from device
-$(call inherit-product, device/<path>/device.mk) -- path to main device makefile
+$(call inherit-product, device/ANDROID_DEVICE_SKY/device.mk) -- path to main device makefile
 
 # Inherit common product files.
 $(call inherit-product, vendor/pb/config/common.mk)
